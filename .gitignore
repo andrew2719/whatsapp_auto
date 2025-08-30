@@ -1,0 +1,9 @@
+# VSCode settings
+.vscode/
+
+# Python script
+send_invites.py
+
+# Excel and CSV files
+*.xlsx
+*.csv
