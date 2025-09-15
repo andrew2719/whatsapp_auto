@@ -3,6 +3,7 @@
 
 # Python script
 send_invites.py
+pinger.py
 
 # Excel and CSV files
 *.xlsx

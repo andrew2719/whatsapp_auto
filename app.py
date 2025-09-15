@@ -7,7 +7,7 @@ import os
 # The app will get the Redis URL from an environment variable set by Render in Phase 3.
 REDIS_URL = "redis://red-d2p99ld6ubrc73c2o3s0:6379"
 # ⬇️ PASTE YOUR WHATSAPP LINK HERE
-REAL_WHATSAPP_LINK = "https://chat.whatsapp.com/JoUH2CBoPvjLkgVKQvPP24?mode=ems_share_c"
+REAL_WHATSAPP_LINK = "https://chat.whatsapp.com/BavMMMPWzCW1c4iTilWsGs?mode=ems_copy_t"
 # --- END OF CONFIGURATION ---
 
 app = FastAPI()
